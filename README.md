@@ -1,2 +1,2 @@
 # SLAM-intro
-Introduction to EKF SLAM
+Introduction to EKF SLAM and FastSLAM
